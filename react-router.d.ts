@@ -394,7 +394,7 @@ declare module ReactRouter {
 		 * @param {Location} location
 		 * @param {(err: Error, route: PlainRoute) => void} callback
 		 */
-		getIndexRoute(location: Location, callback: (err: Error, route: PlainRoute) => void): void;
+		getIndexRoute?(location: Location, callback: (err: Error, route: PlainRoute) => void): void;
 	}
 
 	export interface IRedirectProps extends IIndexRedirectProps {
