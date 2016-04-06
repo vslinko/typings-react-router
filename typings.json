@@ -3,7 +3,7 @@
 	"main": "react-router.d.ts",
 	"ambient": false,
 	"dependencies": {
-		"history": "registry:npm/history#2.0.0+20160214194820"
+		"history": "github:andrew-w-ross/typings-history#1d0ec8beb5ff7dc170d3f92e8310631dd2aba7ae"
 	},
 	"devDependencies": {},
 	"ambientDependencies": {
