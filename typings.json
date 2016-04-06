@@ -3,7 +3,7 @@
 	"main": "react-router.d.ts",
 	"ambient": false,
 	"dependencies": {
-		"history": "registry:npm/history#2.0.0+20160214194820",
+		"history": "registry:npm/history#2.0.0+20160214194820"
 	},
 	"devDependencies": {},
 	"ambientDependencies": {
